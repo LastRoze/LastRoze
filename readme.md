@@ -1,10 +1,10 @@
 ### Hi there, I'm Yoga - aka [Last Roze][website] 👋
 
-## I'm an IT Technician, Developer, and Teacher!
+## I'm an IT Technician, Developer, and Gamer!
 - 🔭 I’m currently working as a Tech Ops at [ZUZU Hospitality][zuzu]!
 - 🌱 I’m currently learning everything 😃
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love give free IT advice for people
+- ⚡ Fun fact: I love giving free IT advice for people
 
 ### Connect with me:
 
