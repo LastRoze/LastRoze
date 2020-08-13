@@ -18,7 +18,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="26px" src="https://prydansoftware.com/wp-content/themes/prydansoftware5/assets/images/hire-flutter-developer-at-prydan.png" />
+<img align="left" alt="Flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
 <img align="left" alt="Dart" width="26px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="Last Roze's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LastRoze&show_icons=true&hide_border=true&theme=dracula" /> 
+<img align="left" alt="Last Roze's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LastRoze&show_icons=true&hide_border=true&theme=dracula" /> <img align="right" alt="Last Roze's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastRoze" />
 
 [website]: #
 [twitter]: https://twitter.com/LastRoze
