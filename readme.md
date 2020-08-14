@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="Last Roze's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LastRoze&show_icons=true&hide_border=true&theme=dracula" /> <img align="right" alt="Last Roze's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastRoze&hide_border=true&theme=dracula" />
+<img align="left" alt="Last Roze's Github Stats" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&hide_border=true&theme=dracula" /> <img align="right" alt="Last Roze's Top Lang" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&hide_border=true&theme=dracula" />
 
 [website]: https://lastroze.github.io/
 [twitter]: https://twitter.com/LastRoze
