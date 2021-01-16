@@ -3,7 +3,7 @@
 ## I'm an IT Technician, Programmer, Developer, and Gamer!
 - 🔭 I’m currently working as a Operations Strategist at [ZUZU Hospitality][zuzu]!
 - 🌱 I’m currently learning everything 😃
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love giving free IT advice for people
 
 ### Connect with me:
