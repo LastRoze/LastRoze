@@ -24,8 +24,6 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨�
 [<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]&ensp;
 [<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]&ensp;
 
---
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -35,8 +33,6 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨�
     <img alt="Last Roze's Top Lang" height="180em" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
-
---
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -64,11 +60,7 @@ Technologies that I've been learning and picked up along my programming journey.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-var s = "Welcome ~";
-alert(s);
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze&left_color=red)</a>
-
   
 [linkedin]: https://www.linkedin.com/in/lastroze/
 [whatsapp]: http://wa.me/+6285739900800
