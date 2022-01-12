@@ -60,7 +60,8 @@ Technologies that I've been learning and picked up along my programming journey.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 <br/>
-<p align="center">Total My Page:
+<p align="center"><h4>Total My Page:</h4></p>
+<p align="center">
 	<a href="" alt="">
 		<img src="https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze" /></a>
 </p>
