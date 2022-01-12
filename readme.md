@@ -40,12 +40,12 @@ Technologies that I've been learning and picked up along my programming journey.
 
 #### ✨ Backend : <br />
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart)
-![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl)
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=nodejs)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=F7B500)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=007ACC)
+![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=007A15)
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=474A8A)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=F29111)
 
 #### 🌐 Frontend : <br />
 
