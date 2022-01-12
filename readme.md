@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi there, I'm Yoga - aka Last Roze <img width="25px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px">
+    Hi there, I'm Yoga - aka Last Roze <img width="25px" src="https://raw.githubusercontent.com/LastRoze/LastRoze/master/Hi.gif" width="30px">
   </h2>
 </div>
 
