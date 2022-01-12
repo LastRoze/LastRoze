@@ -1,46 +1,71 @@
-### Hi there, I'm Yoga - aka [Last Roze][website] 👋
+<div align="center">
+  <h2> 
+    Hi there, I'm Yoga - aka [Last Roze][website] <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+  </h2>
+</div>
 
-## I'm an IT Technician, Programmer, Developer, and Gamer!
-- 🔭 I’m currently working as a Operations Strategist at [ZUZU Hospitality][zuzu]!
+### 👨🏻‍💻 &nbsp;About Me
+
+I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨‍💻
+
+- 🔭 I’m currently working as an Operations Strategist at [ZUZU Hospitality][zuzu]!
 - 🌱 I’m currently learning everything 😃
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔏 Bug bounty hunter on Web Applications
+- 💡 I like to solve problems and explore new technologies
+- ✍️ In my free time, I like to tinker with my own project while listening to my [Spotify Playlist][spotify]
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love giving free IT advice for people
 
 ### Connect with me:
 
-[<img align="left" alt="Last Roze" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Last Roze | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Last Roze | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Last Roze | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]
+[<img align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]
+[<img align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
+[<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]
+[<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
 
-<br />
+### ⚙️ &nbsp;GitHub Analytics
 
-### Languages and Tools:
+<p align="center">
+  <a href="https://github.com/LastRoze">
+    <img alt="Last Roze's Github Stats" height="180em" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true"/>
+    <br>
+    <img alt="Last Roze's Top Lang" height="180em" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
-<img align="left" alt="Dart" width="26px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png" />
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### 🛠 &nbsp;Tech Stack
 
-<br />
-<br />
+Technologies that I've been learning and picked up along my programming journey.
 
----
+#### ✨ Backend : <br />
 
-<img align="left" alt="Last Roze's Github Stats" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&hide_border=true&theme=dracula" /> <img align="right" alt="Last Roze's Top Lang" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&hide_border=true&theme=dracula" />
+![Python](http://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=F7B500)
+![Dart](ttps://img.shields.io/badge/-Dart-007ACC?style=flat&logo=dart)
+![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=4951aa)
+![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
 
-[website]: https://lastroze.github.io/
-[twitter]: https://twitter.com/LastRoze
-[instagram]: https://www.instagram.com/lastroze/
+#### 🌐 Frontend : <br />
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+#### 🖥 OS - IDE - Tools <br />
+
+![Windows](https://img.shields.io/badge/-VPS-007ACC?style=flat&logo=windows)
+![Vscode](https://img.shields.io/badge/-Vscode-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+
+<div align="center"><b>Total Page</b> ![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze)</div>
+
 [linkedin]: https://www.linkedin.com/in/lastroze/
+[whatsapp]: http://wa.me/+6285739900800
+[facebook]: https://lastroze.github.io/
+[instagram]: https://www.instagram.com/lastroze/
+[twitter]: https://twitter.com/LastRoze
+[spotify]: https://open.spotify.com/user/lastroze?si=9e56c7771e204d2e&nd=1
 [zuzu]: https://zuzuhospitality.com/
