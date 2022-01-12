@@ -53,7 +53,7 @@ Technologies that I've been learning and picked up along my programming journey.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
-#### 🖥 OS - IDE - Tools <br />
+#### 🖥 OS - IDE - Tools : <br />
 
 ![Windows](https://img.shields.io/badge/-VPS-05122A?style=flat-square&logo=windows&logoColor=007ACC)
 ![Vscode](https://img.shields.io/badge/-Vscode-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
