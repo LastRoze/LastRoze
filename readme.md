@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi there, I'm Yoga - aka Last Roze <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+    Hi there, I'm Yoga - aka Last Roze <img width="25px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px">
   </h2>
 </div>
 
@@ -16,7 +16,7 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨�
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love giving free IT advice for people
 
-### 🙈 &nbsp;Connect with me:
+### 🙈 &nbsp;Connect With Me
 
 [<img align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]&ensp;
 [<img align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]&ensp;
@@ -60,7 +60,7 @@ Technologies that I've been learning and picked up along my programming journey.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze&left_color=red)</a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze&left_color=red)
   
 [linkedin]: https://www.linkedin.com/in/lastroze/
 [whatsapp]: http://wa.me/+6285739900800
