@@ -23,6 +23,8 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨�
 [<img align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]&ensp;
 [<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]&ensp;
 [<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]&ensp;
+[<img align="left" alt="Last Roze | Reddit" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-256.png" />][reddit]&ensp;
+[<img align="left" alt="Last Roze | Steam" width="25px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/steam_squircle-256.png" />][steam]&ensp;
 <br /><br />
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -69,8 +71,10 @@ Technologies that I've been learning and picked up along my programming journey.
 
 [linkedin]: https://www.linkedin.com/in/lastroze/
 [whatsapp]: http://wa.me/+6285739900800
-[facebook]: https://lastroze.github.io/
+[facebook]: https://www.facebook.com/CrossoverPivot/
 [instagram]: https://www.instagram.com/lastroze/
 [twitter]: https://twitter.com/LastRoze
+[reddit]: https://www.reddit.com/user/LastRoze
+[steam]: https://steamcommunity.com/id/LastRoze/
 [spotify]: https://open.spotify.com/user/lastroze?si=9e56c7771e204d2e&nd=1
 [zuzu]: https://zuzuhospitality.com/
