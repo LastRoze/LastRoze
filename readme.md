@@ -60,8 +60,10 @@ Technologies that I've been learning and picked up along my programming journey.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-
-======================================================================== 👁 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze) 👁 ======================================================================== 
+<p align="center">
+	<a href="" alt="">
+		<img src="https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze" /></a>
+</p>
 
 [linkedin]: https://www.linkedin.com/in/lastroze/
 [whatsapp]: http://wa.me/+6285739900800
