@@ -41,7 +41,7 @@ Technologies that I've been learning and picked up along my programming journey.
 #### ✨ Backend : <br />
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=F7B500)
-![Dart](https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=dart&logoColor=F7B500)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=007ACC)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=4951aa)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -59,8 +59,8 @@ Technologies that I've been learning and picked up along my programming journey.
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-<br/>
-<p align="center"><b><i>Total My Page:</i></b></p>
+<br /><br />
+<p align="center"><b><i>Total My Page</i></b></p>
 <p align="center">
 	<a href="" alt="">
 		<img src="https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze" /></a>
