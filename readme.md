@@ -42,7 +42,7 @@ Technologies that I've been learning and picked up along my programming journey.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=F7B500)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=007ACC)
-![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=007A15)
+![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=87ceeb)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=474A8A)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=F29111)
@@ -55,8 +55,8 @@ Technologies that I've been learning and picked up along my programming journey.
 
 #### 🖥 OS - IDE - Tools <br />
 
-![Windows](https://img.shields.io/badge/-VPS-05122A?style=flat-square&logo=windows)
-![Vscode](https://img.shields.io/badge/-Vscode-05122A?style=flat-square&logo=visual-studio-code)
+![Windows](https://img.shields.io/badge/-VPS-05122A?style=flat-square&logo=windows&logoColor=007ACC)
+![Vscode](https://img.shields.io/badge/-Vscode-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=markdown)
