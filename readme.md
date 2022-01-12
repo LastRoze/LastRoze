@@ -64,7 +64,8 @@ Technologies that I've been learning and picked up along my programming journey.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
---
+var s = "Welcome ~";
+alert(s);
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze&left_color=red)</a>
 
