@@ -18,11 +18,11 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨�
 
 ### 🙈 &nbsp;Connect with me:
 
-[<img align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]
-[<img align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]
-[<img align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
-[<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]
-[<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
+[<img align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]&ensp;
+[<img align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]&ensp;
+[<img align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]&ensp;
+[<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]&ensp;
+[<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]&ensp;
 <br />
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -40,11 +40,11 @@ Technologies that I've been learning and picked up along my programming journey.
 
 #### ✨ Backend : <br />
 
-![Python](http://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=F7B500)
-![Dart](ttps://img.shields.io/badge/-Dart-007ACC?style=flat&logo=dart)
-![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
-![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=4951aa)
-![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=F7B500)
+![Dart](https://img.shields.io/badge/-Dart-007ACC?style=flat&logo=dart)
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=4951aa)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
 
 #### 🌐 Frontend : <br />
 
@@ -60,8 +60,10 @@ Technologies that I've been learning and picked up along my programming journey.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze)
-
+<div align="center">
+<a href="">![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze&left_color=red)</a>
+</div>
+  
 [linkedin]: https://www.linkedin.com/in/lastroze/
 [whatsapp]: http://wa.me/+6285739900800
 [facebook]: https://lastroze.github.io/
