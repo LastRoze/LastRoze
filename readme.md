@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi there, I'm Yoga - aka [Last Roze][website] <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+    Hi there, I'm Yoga - aka Last Roze <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
   </h2>
 </div>
 
@@ -23,7 +23,7 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨�
 [<img align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
 [<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]
 [<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
-
+<br />
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -60,7 +60,7 @@ Technologies that I've been learning and picked up along my programming journey.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-<div align="center"><b>Total Page</b></div> ![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze)
 
 [linkedin]: https://www.linkedin.com/in/lastroze/
 [whatsapp]: http://wa.me/+6285739900800
