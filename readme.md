@@ -16,7 +16,7 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨�
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love giving free IT advice for people
 
-### Connect with me:
+### 🙈 &nbsp;Connect with me:
 
 [<img align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]
 [<img align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]
@@ -28,7 +28,7 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨�
 
 <p align="center">
   <a href="https://github.com/LastRoze">
-    <img alt="Last Roze's Github Stats" height="180em" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img alt="Last Roze's Github Stats" height="180em" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
     <br>
     <img alt="Last Roze's Top Lang" height="180em" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
   </a>
@@ -60,7 +60,7 @@ Technologies that I've been learning and picked up along my programming journey.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-<div align="center"><b>Total Page</b> ![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze)</div>
+<div align="center"><b>Total Page</b></div> ![visitors](https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze)
 
 [linkedin]: https://www.linkedin.com/in/lastroze/
 [whatsapp]: http://wa.me/+6285739900800
