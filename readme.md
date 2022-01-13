@@ -1,12 +1,12 @@
 <div align="center">
   <h2> 
-    Hi there, I'm Yoga a.k.a. "Last Roze" <img width="25px" src="https://raw.githubusercontent.com/LastRoze/LastRoze/master/Hi.gif" width="30px">
+    Hi there, I'm Yoga <img width="25px" src="https://raw.githubusercontent.com/LastRoze/LastRoze/master/Hi.gif" width="30px">
   </h2>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨‍💻
+I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙🏻‍♂️
 
 - 🔭 I’m currently working as an Operations Strategist at [ZUZU Hospitality][zuzu]!
 - 🌱 I’m currently learning everything 😃
@@ -18,14 +18,14 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 👨�
 
 ### 🙈 &nbsp;Connect With Me
 
-[<img align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]&ensp;
-[<img align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]&ensp;
-[<img align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]&ensp;
-[<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]&ensp;
-[<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]&ensp;
-[<img align="left" alt="Last Roze | Youtube" width="25px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-256.png" />][youtube]&ensp;
-[<img align="left" alt="Last Roze | Reddit" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-256.png" />][reddit]&ensp;
-[<img align="left" alt="Last Roze | Steam" width="25px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/steam_squircle-256.png" />][steam]&ensp;
+[<img align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]
+[<img align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]
+[<img align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
+[<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]
+[<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
+[<img align="left" alt="Last Roze | Youtube" width="25px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-256.png" />][youtube]
+[<img align="left" alt="Last Roze | Reddit" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-256.png" />][reddit]
+[<img align="left" alt="Last Roze | Steam" width="25px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/steam_squircle-256.png" />][steam]
 <br /><br />
 ### ⚙️ &nbsp;GitHub Analytics
 
