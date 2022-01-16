@@ -64,6 +64,11 @@ Technologies that I've been learning and picked up along my programming journey.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=markdown)
 <br /><br />
+<p align="center">
+	<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&redirect=true" alt="">
+		<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true" /></a>
+</p>
+<br /><br />
 <p align="center"><b><i>Total My Page</i></b></p>
 <p align="center">
 	<a href="" alt="">
