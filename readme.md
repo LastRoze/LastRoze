@@ -54,7 +54,7 @@ Technologies that I've been learning and picked up along my programming journey.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=323330)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&logoColor=31572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&logoColor=1572B6)
 
 #### 🖥 OS - IDE - Tools : <br />
 
