@@ -61,7 +61,7 @@ Technologies that I've been learning and picked up along my programming journey.
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&logoColor=007ACC)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Android](https://img.shields.io/badge/Android-05122A?style=flat-square&logo=android-studio&logoColor=3DDC84)
-![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=23FF9900)
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=23FF99)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=flat-square&logo=Cloudflare&logoColor=FF5500)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
