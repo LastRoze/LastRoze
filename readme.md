@@ -42,13 +42,13 @@ Technologies that I've been learning and picked up along my programming journey.
 
 #### ✨ Backend : <br />
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart)
-![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl)
-![C++](https://img.shields.io/badge/C++-05122A?style=flat-square&logo=c%2B%2B)
-![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat-square&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=0175C2)
+![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=39457E)
+![C++](https://img.shields.io/badge/C++-05122A?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat-square&logo=node.js&logoColor=6DA55F)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=F29111)
 
 #### 🌐 Frontend : <br />
 
