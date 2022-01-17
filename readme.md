@@ -43,11 +43,11 @@ Technologies that I've been learning and picked up along my programming journey.
 #### ✨ Backend : <br />
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=white)
-![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=87ceeb)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=0175C2)
+![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=39457E)
 ![C++](https://img.shields.io/badge/C++-05122A?style=flat-square&logo=c%2B%2B&logoColor=00599C)
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat-square&logo=node.js&logoColor=6DA55F)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=474A8A)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=F29111)
 
 #### 🌐 Frontend : <br />
@@ -58,14 +58,13 @@ Technologies that I've been learning and picked up along my programming journey.
 
 #### 🖥 OS - IDE - Tools : <br />
 
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&logoColor=007ACC)
-![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&logoColor=0078D6)
+![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
 ![Android](https://img.shields.io/badge/Android-05122A?style=flat-square&logo=android-studio&logoColor=3DDC84)
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=ff9900)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=flat-square&logo=Cloudflare&logoColor=FF5500)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&logoColor=white)
 <br /><br />
 <p align="center">
 	<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&redirect=true" alt="">
