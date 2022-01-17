@@ -46,7 +46,7 @@ Technologies that I've been learning and picked up along my programming journey.
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=007ACC)
 ![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=87ceeb)
 ![C++](https://img.shields.io/badge/C++-05122A?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat-square&logo=node.js&logoColor=6DA55F)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=474A8A)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=F29111)
 
