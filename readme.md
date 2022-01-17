@@ -46,7 +46,7 @@ Technologies that I've been learning and picked up along my programming journey.
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=007ACC)
 ![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=87ceeb)
 ![C++](https://img.shields.io/badge/c++-05122A?style=flat-square&logo=c%2B%2B&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-005122A5122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=474A8A)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=F29111)
 
@@ -60,9 +60,9 @@ Technologies that I've been learning and picked up along my programming journey.
 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&logoColor=007ACC)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Android](https://img.shields.io/badge/Android-05122A?style=flat-square&logo=android-studio&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=flat-square&logo=Cloudflare&logoColor=white)
+![Android](https://img.shields.io/badge/Android-05122A?style=flat-square&logo=android-studio&logoColor=3DDC84)
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=23FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=flat-square&logo=Cloudflare&logoColor=FF5500)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=markdown)
