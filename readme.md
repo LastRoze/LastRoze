@@ -12,7 +12,7 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙�
 - 🔏 Bug bounty hunter on Web Applications
 - 💡 I like to solve problems and explore new technologies
 - ✍️ In my free time, I like to tinker with my own project while listening to my [Spotify Playlist][spotify]
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love giving free IT advice for people
 
 ### 🙈 &nbsp;Connect With Me
