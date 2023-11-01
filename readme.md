@@ -1,19 +1,18 @@
-<div align="center">
-  <h2> 
-    Hi there, I'm Yoga <img width="25px" src="https://raw.githubusercontent.com/LastRoze/LastRoze/master/Hi.gif" width="30px">
-  </h2>
+<div align="center"> 
+    <b>Hi there, I'm Yoga</b> <img src="https://raw.githubusercontent.com/LastRoze/LastRoze/master/Hi.gif" width="20px" />
+	<h2></h2>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙🏻‍♂️
 
-- 🔭 I’m currently working as an Operations Strategist at [ZUZU Hospitality][zuzu]!
+- 🔭 I’m currently working as an Operations Strategist / Dev Ops at [ZUZU Hospitality][zuzu]!
 - 🔏 Bug bounty hunter on Web Applications
 - 💡 I like to solve problems and explore new technologies
 - ✍️ In my free time, I like to tinker with my own project while listening to my [Spotify Playlist][spotify]
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love giving free IT advice for people
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love giving free IT advice to people
 
 ### 🙈 &nbsp;Connect With Me
 
@@ -40,7 +39,7 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙�
 
 Technologies that I've been learning and picked up along my programming journey.
 
-#### ✨ Backend : <br />
+#### ✨ Backend: <br />
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=0175C2)
@@ -50,13 +49,13 @@ Technologies that I've been learning and picked up along my programming journey.
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=F29111)
 
-#### 🌐 Frontend : <br />
+#### 🌐 Frontend: <br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&logoColor=1572B6)
 
-#### 🖥 OS - IDE - Tools : <br />
+#### 🖥 OS - IDE - Tools: <br />
 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&logoColor=0078D6)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
@@ -73,7 +72,7 @@ Technologies that I've been learning and picked up along my programming journey.
 <br />
 <p align="center">
 	<a href="" alt="">
-		<img src="https://visitor-badge.glitch.me/badge?page_id=LastRoze/LastRoze" /></a>
+		<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLastRoze%2FLastRoze&labelColor=%23222222&countColor=%23603cba" /></a>
 </p>
 
 [linkedin]: https://www.linkedin.com/in/lastroze/
