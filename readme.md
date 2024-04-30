@@ -3,7 +3,7 @@
 </a>
 
 <a rel="noopener" href="#" style="text-decoration:none">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&font=Fira%20Code&size=45&center=true&vCenter=true&width=1000&pause=1000&lines=Hi+There,+I'm+Yoga+;Welcome!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&font=Fira%20Code&size=45&center=true&vCenter=true&width=1000&pause=1000&lines=Hi+There,+I'm+Yoga+;Welcome!+:%29" />
 </a>
 
 ### 👨🏻‍💻 &nbsp;About Me
