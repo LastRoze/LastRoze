@@ -14,7 +14,6 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙�
 - 💡 I like to solve problems and explore new technologies
 - ✍️ In my free time, I like to tinker with my own project while listening to my [Spotify Playlist][spotify]
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love giving free IT advice to people
 
 ### 🙈 &nbsp;Connect With Me
 
