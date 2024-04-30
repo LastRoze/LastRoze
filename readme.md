@@ -29,10 +29,10 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙�
 <br /><br />
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a rel="noopener" href="#" style="text-decoration:none;">
-    <img alt="Last Roze's Github Stats" height="200px" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-    <img alt="Last Roze's Top Lang" height="200px" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
-</a>
+<div align="center">
+    <img alt="Last Roze's Github Stats" height="190px" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+    <img alt="Last Roze's Top Lang" height="190px" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
+</div>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -50,28 +50,28 @@ Technologies that I've been learning and picked up along my programming journey.
 
 #### 🌐 Frontend: <br />
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&logoColor=1572B6)
+<a rel="noopener" href="#" style="text-decoration:none;">![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=F7DF1E)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=e34f26)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&logoColor=1572B6)</a>
 
 #### 🖥 OS - IDE - Tools: <br />
 
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&logoColor=0078D6)
-![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
-![Android](https://img.shields.io/badge/Android-05122A?style=flat-square&logo=android-studio&logoColor=3DDC84)
-![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=ff9900)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=flat-square&logo=Cloudflare&logoColor=FF5500)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&logoColor=white)
+<a rel="noopener" href="#" style="text-decoration:none;">![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&logoColor=0078D6)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=0078d7)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![Android](https://img.shields.io/badge/Android-05122A?style=flat-square&logo=android-studio&logoColor=3DDC84)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazon-aws&logoColor=ff9900)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=flat-square&logo=Cloudflare&logoColor=FF5500)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=F05033)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&logoColor=white)</a>
 <br /><br />
 <p align="center">
-	<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&redirect=true" alt="">
-		<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true" /></a>
+  <a href="https://spotify-github-profile.vercel.app/api/novatorem.svg?uid=lastroze&redirect=true" alt="">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true" /></a>
 </p>
 <br />
 <p align="center">
-	<a href="" alt="">
-		<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLastRoze%2FLastRoze&labelColor=%23222222&countColor=%23603cba" /></a>
+  <a href="#" alt="">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLastRoze%2FLastRoze&labelColor=%23222222&countColor=%23603cba" /></a>
 </p>
 
 [linkedin]: https://www.linkedin.com/in/lastroze/
