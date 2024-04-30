@@ -18,18 +18,18 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙�
 
 ### 🙈 &nbsp;Connect With Me
 
-[<img target="_blank" align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]
-[<img target="_blank" align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]
-[<img target="_blank" align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
-[<img target="_blank" align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]
-[<img target="_blank" align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
-[<img target="_blank" align="left" alt="Last Roze | Youtube" width="25px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-256.png" />][youtube]
-[<img target="_blank" align="left" alt="Last Roze | Reddit" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-256.png" />][reddit]
-[<img target="_blank" align="left" alt="Last Roze | Steam" width="25px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/steam_squircle-256.png" />][steam]
+[<img align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]
+[<img align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]
+[<img align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
+[<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]
+[<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
+[<img align="left" alt="Last Roze | Youtube" width="25px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-256.png" />][youtube]
+[<img align="left" alt="Last Roze | Reddit" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-256.png" />][reddit]
+[<img align="left" alt="Last Roze | Steam" width="25px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/steam_squircle-256.png" />][steam]
 <br /><br />
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a rel="noopener" href="https://github.com/LastRoze" target="_blank" style="text-decoration:none">
+<a rel="noopener" href="#" style="text-decoration:none;">
     <img alt="Last Roze's Github Stats" height="200px" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
     <img alt="Last Roze's Top Lang" height="200px" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
 </a>
@@ -40,13 +40,13 @@ Technologies that I've been learning and picked up along my programming journey.
 
 #### ✨ Backend: <br />
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=0175C2)
-![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=39457E)
-![C++](https://img.shields.io/badge/C++-05122A?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat-square&logo=node.js&logoColor=6DA55F)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=F29111)
+<a rel="noopener" href="#" style="text-decoration:none;">![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=ffdd54)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=0175C2)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat-square&logo=perl&logoColor=39457E)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![C++](https://img.shields.io/badge/C++-05122A?style=flat-square&logo=c%2B%2B&logoColor=00599C)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat-square&logo=node.js&logoColor=6DA55F)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=777BB4)</a>
+<a rel="noopener" href="#" style="text-decoration:none;">![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=F29111)</a>
 
 #### 🌐 Frontend: <br />
 
