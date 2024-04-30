@@ -1,6 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD6387&height=120&section=header"/>
+<a rel="noopener" href="#" style="text-decoration:none">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD6387&height=120&section=header" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+I'm+Yoga+;Welcome!)](https://github.com/LastRoze)
+<a rel="noopener" href="#" style="text-decoration:none">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&font=Fira%20Code&size=35&center=true&vCenter=true&width=1000&pause=1000&lines=Hi+There,+I'm+Yoga+;Welcome!" />
+</a>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -14,23 +18,21 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙�
 
 ### 🙈 &nbsp;Connect With Me
 
-[<img align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]
-[<img align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]
-[<img align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
-[<img align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]
-[<img align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
-[<img align="left" alt="Last Roze | Youtube" width="25px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-256.png" />][youtube]
-[<img align="left" alt="Last Roze | Reddit" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-256.png" />][reddit]
-[<img align="left" alt="Last Roze | Steam" width="25px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/steam_squircle-256.png" />][steam]
+[<img target="_blank" align="left" alt="Last Roze | LinkedIn" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin]
+[<img target="_blank" align="left" alt="Last Roze | WhatsApp" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" />][WhatsApp]
+[<img target="_blank" align="left" alt="Last Roze | Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
+[<img target="_blank" align="left" alt="Last Roze | Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][instagram]
+[<img target="_blank" align="left" alt="Last Roze | Twitter" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
+[<img target="_blank" align="left" alt="Last Roze | Youtube" width="25px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-256.png" />][youtube]
+[<img target="_blank" align="left" alt="Last Roze | Reddit" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit3_colored_svg-256.png" />][reddit]
+[<img target="_blank" align="left" alt="Last Roze | Steam" width="25px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/steam_squircle-256.png" />][steam]
 <br /><br />
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/LastRoze">
-    <img alt="Last Roze's Github Stats" width="49%" height="195px" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-    <img alt="Last Roze's Top Lang" width="41%" height="195px" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
+<a rel="noopener" href="https://github.com/LastRoze" target="_blank" style="text-decoration:none">
+    <img alt="Last Roze's Github Stats" height="200px" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+    <img alt="Last Roze's Top Lang" height="200px" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 
