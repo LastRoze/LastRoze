@@ -65,7 +65,7 @@ Technologies that I've been learning and picked up along my programming journey.
 <br /><br />
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&redirect=true" alt="">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&cover_image=true&theme=novatorem&bar_color=DD6387&bar_color_cover=true" /></a>
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&cover_image=true&theme=novatorem&bar_color=dd6387&bar_color_cover=true" /></a>
 </p>
 <br />
 <p align="center">
