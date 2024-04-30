@@ -1,13 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD6387&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+I'm+Yoga,;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+I'm+Yoga+;Welcome!)](https://github.com/LastRoze)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙🏻‍♂️
 
 - 🔭 I’m currently working as an Operations Strategist / Dev Ops at [ZUZU Hospitality][zuzu]!
-- 🔏 Bug bounty hunter on Web Applications
 - 💡 I like to solve problems and explore new technologies
 - ✍️ In my free time, I like to tinker with my own project while listening to my [Spotify Playlist][spotify]
 - 🥅 2024 Goals: Contribute more to Open Source projects
@@ -72,7 +71,7 @@ Technologies that I've been learning and picked up along my programming journey.
 	<a href="" alt="">
 		<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLastRoze%2FLastRoze&labelColor=%23222222&countColor=%23603cba" /></a>
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD6387&height=120&section=footer"/>
+
 [linkedin]: https://www.linkedin.com/in/lastroze/
 [whatsapp]: http://wa.me/+6285739900800
 [facebook]: https://www.facebook.com/CrossoverPivot/
@@ -83,3 +82,5 @@ Technologies that I've been learning and picked up along my programming journey.
 [steam]: https://steamcommunity.com/id/LastRoze/
 [spotify]: https://open.spotify.com/user/lastroze?si=9e56c7771e204d2e&nd=1
 [zuzu]: https://zuzuhospitality.com/
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD6387&height=120&section=footer"/>
