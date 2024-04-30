@@ -30,8 +30,8 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙�
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-    <img alt="Last Roze's Github Stats" height="190px" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-    <img alt="Last Roze's Top Lang" height="190px" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
+    <img alt="Last Roze's Github Stats" width="49%" height="190px" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+    <img alt="Last Roze's Top Lang" width="41%" height="190px" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 ### 🛠 &nbsp;Tech Stack
