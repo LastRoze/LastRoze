@@ -1,6 +1,7 @@
-<div align="center"> 
-    <b>Hi there, I'm Yoga</b> <img src="https://raw.githubusercontent.com/LastRoze/LastRoze/master/Hi.gif" width="20px" />
-	<h2></h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD6387&height=120&section=header"/>
+
+<div align="center">
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+I'm+Yoga,;Welcome!)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/LastRoze/LastRoze/master/Hi.gif" width="20px" />
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -27,13 +28,12 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙�
 <br /><br />
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/LastRoze">
-    <img alt="Last Roze's Github Stats" height="180em" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-    <br>
-    <img alt="Last Roze's Top Lang" height="180em" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
+    <img alt="Last Roze's Github Stats" width="49%" height="195px" src="https://readme-stats.lastroze.vercel.app/api?username=LastRoze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+    <img alt="Last Roze's Top Lang" width="41%" height="195px" src="https://readme-stats.lastroze.vercel.app/api/top-langs/?username=LastRoze&layout=compact&langs_count=8&theme=dracula"/>
   </a>
-</p>
+</div>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -74,7 +74,7 @@ Technologies that I've been learning and picked up along my programming journey.
 	<a href="" alt="">
 		<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLastRoze%2FLastRoze&labelColor=%23222222&countColor=%23603cba" /></a>
 </p>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD6387&height=120&section=footer"/>
 [linkedin]: https://www.linkedin.com/in/lastroze/
 [whatsapp]: http://wa.me/+6285739900800
 [facebook]: https://www.facebook.com/CrossoverPivot/
