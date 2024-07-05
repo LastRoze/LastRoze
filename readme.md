@@ -63,11 +63,7 @@ Technologies that I've been learning and picked up along my programming journey.
 <a rel="noopener" href="#" style="text-decoration:none;">![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=F05033)</a>
 <a rel="noopener" href="#" style="text-decoration:none;">![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&logoColor=white)</a>
 <br /><br />
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&redirect=true" alt="">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lastroze&cover_image=true&theme=novatorem&bar_color=92465F&bar_color_cover=true" /></a>
-</p>
-<br />
+
 <p align="center">
   <a href="#" alt="">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLastRoze%2FLastRoze&labelColor=%23222222&countColor=%23603cba" /></a>
