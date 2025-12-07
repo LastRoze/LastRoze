@@ -16,7 +16,7 @@ jobs:
       - name: Update year in README
         run: |
           current_year=$(date +'%Y')
-          sed -i "s/- 🥅 [0-9]\{4\} Goals:/- 🥅 ${current_year} Goals:/g" README.md
+          sed -i "s/- 🥅 [0-9]\{4\} Goals:/- 🥅 ${current_year} Goals:/g" readme.md
 
       - name: Commit & push if changed
         run: |
