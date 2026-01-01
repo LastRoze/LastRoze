@@ -13,7 +13,7 @@ I'm a Computer Science Enthusiast and the founder of Dominea or DNA group 🧙�
 - 🔭 I’m currently working as an Operations Strategist / Dev Ops at [ZUZU Hospitality][zuzu]!
 - 💡 I like to solve problems and explore new technologies
 - ✍️ In my free time, I like to tinker with my own project while listening to my [Spotify Playlist][spotify]
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 
 ### 🙈 &nbsp;Connect With Me
 
